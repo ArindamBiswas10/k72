@@ -2,7 +2,9 @@ import React from 'react'
 
 const ProjectBottomText = () => {
   return (
-    <div>ProjectBottomText</div>
+    <div>
+        ProjectBottomText
+    </div>
   )
 }
 
