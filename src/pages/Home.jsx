@@ -13,10 +13,8 @@ const Home = () => {
             <HomeHeroText/>
             <HomeBottomText/>
         </div>
+        <div className='h-screen w-screen fixed top-0 left-0 bg-black/60 pointer-events-none'></div>
     </div>
-
-
-
   )
 }
 
